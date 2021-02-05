@@ -1,0 +1,26 @@
+/*navBar optiones index.html*/
+.btn {position: relative; left: 1000px;}
+.dropdown {position: relative; left: 350px; top: -35px}
+ul.dropdown-menu {position: relative; left: 800px;}
+
+/*body parts index.html*/
+
+.container {background-color: blue; width: 1100px; left: 350px}
+.chaged {position: relative; left: 80px;}
+
+/*images index.html*/
+.owl {position: relative; top: 30px; }
+.tree {position: relative; top: 30px; left: 125px;}
+.fruts {position: relative; top: 30px;}
+.lion {position: relative; top: 60px;}
+.elephant {position: relative; top: 60px; left: 125px;}
+.country {position: relative; top: 60px;}
+
+/*dates of poster.html*/
+.container2 {position: relative; left: 520px; background-color: rgb(226, 214, 214); width: 570px; height: 1200px;}
+.post {position: relative; left: 130px; top: 65px;}
+h1 {position: relative; top: 380px; left: -350px; font-size: 100%;}
+h2{position: relative; top: 140px; left: -15px; font-size: 100%;}
+
+img.p1{position: relative;top: 100px;;}
+
